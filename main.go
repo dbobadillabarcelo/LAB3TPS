@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/dbobadillabarcelo/TP3"
-	"github.com/dbobadillabarcelo/TP4"
-	"github.com/dbobadillabarcelo/TP5"
-	"github.com/dbobadillabarcelo/TP6"
-	"github.com/dbobadillabarcelo/TP7"
-	"github.com/dbobadillabarcelo/TP8"
+	"LAB3TPS-master/TP3"
+	"LAB3TPS-master/TP4"
+	"LAB3TPS-master/TP5"
+	"LAB3TPS-master/TP6"
+	"LAB3TPS-master/TP7"
+	"LAB3TPS-master/TP8"
 )
 
 func main(){
